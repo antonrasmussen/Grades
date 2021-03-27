@@ -1,0 +1,6 @@
+student_id,first_name,last_name,middle_name,class_list
+431254254,Arij,Haugen,Flint,"['ACCT155', 'BIOL113', 'ECON101', 'MATH102']"
+854224557,Stanislova,Bain,Navin,"['ASIA337', 'ENGL220', 'MATH340', 'MUSC323']"
+654124155,Elfrieda,Kuijpers,Muirgheal,"['ENGR452','STAT344','STAT350']"
+543421542,Vasu,Belluomo,Edina,"['BIOL155', 'CHEM105', 'ECON101', 'ENGL112', 'MATH102']"
+323215421,Shenandoah,Head,Gabriel,"['ACCT155', 'BIOL155', 'COMM100', 'ECON201', 'ENGL110', 'MATH102']"
